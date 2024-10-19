@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463646342733",
+    "project_id": "pregrado2024-676fc",
+    "storage_bucket": "pregrado2024-676fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463646342733:android:b133be6a27dadec14aa604",
+        "android_client_info": {
+          "package_name": "dev.luischang.firebases9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7t3l7ywtJYZqmM6Ds5joaHq_07Qzw_2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
