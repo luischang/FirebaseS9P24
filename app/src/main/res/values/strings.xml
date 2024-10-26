@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">FirebaseS9</string>
     <string name="valbtlogin">LOGIN</string>
+    <string name="valetloginmessage">Enter email</string>
+    <string name="valetloginmessagepwd">Enter password</string>
+    <string name="valbtregister">REGISTER</string>
+    <string name="valetfullname">Enter full name</string>
+    <string name="valetcountry">Enter country</string>
+    <string name="valetemail">Enter Email</string>
+    <string name="valetpassword">Enter password</string>
+    <string name="valbtsaveregister">SAVE</string>
 </resources>
