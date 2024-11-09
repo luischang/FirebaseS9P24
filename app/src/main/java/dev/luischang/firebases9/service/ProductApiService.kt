@@ -2,6 +2,7 @@ package dev.luischang.firebases9.service
 
 import dev.luischang.firebases9.model.ProductApiModel
 import retrofit2.Call
+import retrofit2.http.Body
 import retrofit2.http.DELETE
 import retrofit2.http.GET
 import retrofit2.http.POST
@@ -18,7 +19,7 @@ interface ProductApiService {
 
     // Create POST products
     @POST("products")
-    fun createProduct(product: ProductApiModel): Call<ProductApiModel>
+    fun createProduct(@Body product: ProductApiModel): Call<ProductApiModel>
 
     // Update PUT products
     @PUT("products/{id}")
